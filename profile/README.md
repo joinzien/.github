@@ -3,8 +3,10 @@ Zien is building open systems for contemporary art. Pioneering a new way to coll
 - **[Expanded NFT][expandednft]** - Our implementation of expanded NFTs.
 - **[Scarce Editions][scrceedition]** - Our earlier work in NFTs.
 - **[aiml-high][aimlhigh]** - The core of our chatbot. Used to power our interactions.
+- **[telegram-api][telegramapi]** - Telegram support API.
 
 [expandednft]: https://github.com/joinzien/expanded-nft
 [scrceedition]: https://github.com/joinzien/scarce-editions
 [aimlhigh]: https://github.com/joinzien/aiml-high
+[telegramapi] https://github.com/joinzien/telegram-api
 [Telegram]: https://t.me/zienzienbot
