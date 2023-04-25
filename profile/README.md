@@ -8,5 +8,5 @@ Zien is building open systems for contemporary art. Pioneering a new way to coll
 [expandednft]: https://github.com/joinzien/expanded-nft
 [scrceedition]: https://github.com/joinzien/scarce-editions
 [aimlhigh]: https://github.com/joinzien/aiml-high
-[telegramapi] https://github.com/joinzien/telegram-api
+[telegramapi]: https://github.com/joinzien/telegram-api
 [Telegram]: https://t.me/zienzienbot
