@@ -1,11 +1,12 @@
 Zien is building open systems for contemporary art. Pioneering a new way to collect art as Expanded NFTs, Zien transforms how today’s foremost media agnostic artists are discovered and collected. Join Zien on **[Telegram][Telegram]**
 
-- **[Expanded NFT][expandednft]** - Our implementation of expanded NFTs.
+- **[Expanded NFT][expandednft]** and **[Open Editions][openeditions]** - Our implementations of expanded NFTs.
 - **[Scarce Editions][scrceedition]** - Our earlier work in NFTs.
 - **[aiml-high][aimlhigh]** - The core of our chatbot. Used to power our interactions.
 - **[telegram-api][telegramapi]** - Telegram support API.
 
 [expandednft]: https://github.com/joinzien/expanded-nft
+[openeditions]: https://github.com/joinzien/open-editions
 [scrceedition]: https://github.com/joinzien/scarce-editions
 [aimlhigh]: https://github.com/joinzien/aiml-high
 [telegramapi]: https://github.com/joinzien/telegram-api
